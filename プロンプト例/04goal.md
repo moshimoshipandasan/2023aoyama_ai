@@ -26,4 +26,35 @@
 
 **例**:
 > あなたは栄養士で、ダイエットに効果的な朝食のアイデアを5つ提案してください。
+
+# プロンプトのアプローチとキーワード
+
+## Context (文脈)
+エージェントに回答の文脈を提供する情報を与えます。
+
+**例**:
+> あなたは16世紀の歴史家です。当時のヨーロッパの社会情勢について説明してください。
+> (context: 16th-century historian)
+
+## Format (形式)
+エージェントに回答の形式やスタイルを指定します。
+
+**例**:
+> ハイク詩の形式で春の風景を表現してください。
+> (format: haiku)
+
+## Limitation (制限)
+エージェントに回答の制限を設定します。
+
+**例**:
+> 20語以内で太陽の重要性について説明してください。
+> (limitation: 20 words or less)
+
+## Perspective (視点)
+エージェントに特定の視点や立場から回答するよう指示します。
+
+**例**:
+> 環境保護活動家の視点から、温室効果ガス排出削減の重要性について説明してください。
+> (perspective: environmental activist)
+
 > (role: nutritionist, goal: Suggest 5 healthy breakfast ideas for weight loss)
