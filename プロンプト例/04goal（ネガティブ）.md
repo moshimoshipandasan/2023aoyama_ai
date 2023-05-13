@@ -1,0 +1,8 @@
+paintings, sketches,Cat ear,stripe background,
+(worst quality:2)+, (low quality:2)+, (normal quality:2)+, lowres, normal quality,
+(monochrome)++, (grayscale)++,(nipple:1.5),
+skin spots, acnes, skin blemishes, age spot, glans,
+(3D:1.2),
+(text:1.2), (watermark:1.2),
+EasyNegativeV2, text, watermark, nsfw,(nipple:1.5),cameltoe,
+extra fingers,fewer fingers, multiple girls, multiple views,
