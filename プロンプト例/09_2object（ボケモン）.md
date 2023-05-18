@@ -8,8 +8,8 @@
 
 ## ボケモンオブジェクト
 ### attribute
-self = {名前,属性}.
-parameter = {攻撃,防御,HP}.
+- self = {名前,属性}.
+- parameter = {攻撃,防御,HP}.
 
 ### method
 1. 次の条件に従って、モンスターを生成します。
