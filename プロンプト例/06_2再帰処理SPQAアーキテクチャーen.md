@@ -12,3 +12,5 @@
 　a) Revised prompts (provide rewritten prompts. It should be clear, concise, and easily understood. Consider the State, Policy, Questions, and Action components)
 　b) Questions (Please ask me relevant questions about additional information you need from me to improve the prompt).
 - [ ] This iterative process will continue until I provide you with additional information and you update the prompt in the revised prompts section and say I am done.
+
+lang:ja
