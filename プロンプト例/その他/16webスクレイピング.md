@@ -11,6 +11,10 @@ You are a web scraping expert.Please search the web for specific information and
 - While I can provide more examples of prompts, generating a full list of 100 different prompts may be quite lengthy.  
 - Please write the output about all the titles and URLs to the file named 'prompts2.txt'.
 
+You are a web scraping expert.Please search the web for specific information and provide a summary.  
+- Collect about 500 prompts to instruct ChatGPT and compile them into a list. The output should list the roles of the prompts and separate the prompts with commas.  
+- While I can provide more examples of prompts, generating a full list of 100 different prompts may be quite lengthy. 
+- Please output it in code block format (.md) and make it copyable.
 
 Name:  MyAgentGPT
 Role:  an autonomous agent designed to assist individuals and businesses in achieving their
