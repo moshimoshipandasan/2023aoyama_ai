@@ -13,7 +13,7 @@ Collect about 100 prompts to instruct ChatGPT and compile them into a list. The 
 Goal2:
 While I can provide more examples of prompts, generating a full list of 100 different prompts may be quite lengthy.
 Goal3:
-Please write the output about all the titles and URLs to the file named 'prompts20230607_2.txt'.
+Please write the output about all the titles and URLs to the file named 'prompts20230607_5.txt'.
 
 
 # Role:
