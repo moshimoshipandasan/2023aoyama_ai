@@ -1,8 +1,8 @@
-Role:
+# Role:
 Please search the web for specific information and provide a summary.
-Goal1:
+## Goal1:
 Please summarize Shohei Ohtani's performance in Major League Baseball (MLB) from 2021 to 2023.
-Goal2:
+## Goal2:
 Please write the output to "text2.txt".
 
 # 成果物
