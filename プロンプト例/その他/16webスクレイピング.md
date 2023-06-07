@@ -7,7 +7,7 @@
 - https://writesonic.com/blog/chatgpt-prompts/
 - https://blog.hubspot.com/marketing/chatgpt-prompts
 - https://www.wordstream.com/Blog
-- learnprompt.org/chat-gpt-prompts-for-business/
+- https://learnprompt.org/chat-gpt-prompts-for-business/
 - https://mpost.io/100-best-chatgpt-prompts-to-unleash-ais-potential/
 - https://www.getmagical.com/blog/best-chatgpt-prompts
 - https://beebom.com/ai-american-or-british-accent/
