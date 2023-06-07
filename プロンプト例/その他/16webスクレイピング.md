@@ -5,8 +5,15 @@ Please summarize Shohei Ohtani's performance in Major League Baseball (MLB) from
 ## Goal2:
 Please write the output to "text2.txt".
 
-# 成果物
-- [ジャンル]、[キーワード]、[ChatGPTで使用するプロンプト]に分けた、スクレイピング結果を画面に表示する。
+
+# Role:
+You are a web scraping expert.Please search the web for specific information and provide a summary.
+Goal1:
+Collect about 100 prompts to instruct ChatGPT and compile them into a list. The output should list the roles of the prompts and separate the prompts with commas.
+Goal2:
+While I can provide more examples of prompts, generating a full list of 100 different prompts may be quite lengthy.
+Goal3:
+Please write the output to "prompts20230607_2.txt".
 
 
 # Role:
