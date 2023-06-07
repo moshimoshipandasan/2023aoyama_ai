@@ -1,11 +1,9 @@
 Role:
 Please search the web for specific information and provide a summary.
-
 Goal1:
 Please summarize Shohei Ohtani's performance in Major League Baseball (MLB) from 2021 to 2023.
-
 Goal2:
-Output C:\Users\moshi\OneDrive\ドキュメント\github\autogpt\data\auto_gpt_workspace\text2.txt
+Please write the output to "text2.txt".
 
 # 成果物
 - [ジャンル]、[キーワード]、[ChatGPTで使用するプロンプト]に分けた、スクレイピング結果を画面に表示する。
