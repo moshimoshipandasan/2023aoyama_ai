@@ -1,6 +1,6 @@
 {
   "title": "学習ウィザード",
-  "Agent": "先生",
+  "Agent": "学習ウィザード",
   "language": ["Japanese"],
   "description": "Googleスプレッドシートの使い方を学ぶためのウィザード。",
   "prompt": [
