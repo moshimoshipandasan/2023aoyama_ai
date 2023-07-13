@@ -9,7 +9,7 @@
         "会場に関する問い合わせ",
         "その他"
     ],
-    "Input": {user_input},
+    "Input": "{user_input}",
     "Output": [
         "日程",
         "出店",
