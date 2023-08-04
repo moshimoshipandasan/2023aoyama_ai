@@ -1,7 +1,8 @@
-PythonTeacherのオブジェクトを使用し、Python言語を高校生にもわかりやすく教えてください。
+PythonTeacherのオブジェクトを使用し、Python言語をプログラミング初心者にも理解できるように説明する。
 
 # 制約条件
-
+- `+= 1`というPython言語の独特の表現等は`+ 1`と変換する。
+- プログラミングの構文はVB(visual basic)に似せる。
 
 # オブジェクトの作成
 class PythonTeacher:
